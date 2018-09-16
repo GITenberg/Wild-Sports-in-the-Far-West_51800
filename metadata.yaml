@@ -1,5 +1,5 @@
 _repo: Wild-Sports-in-the-Far-West_51800
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Weir, Harrison
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8210'
     url: http://www.gutenberg.org/2009/agents/8210
     wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: archival
+  image_path: 51800-h/images/cover.jpg
 creator:
   author:
     agent_name: Gerstäcker, Friedrich
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51800#Wild-Sports-in-the-Far-West
 gutenberg_issued: '2016-04-19'
 gutenberg_type: Text
 identifiers:
