@@ -1,0 +1,42 @@
+_repo: Wild-Sports-in-the-Far-West_51800
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    - Gerstacker, Friedrich
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ohio River Valley -- Description and travel'
+- !lcsh 'Southwest, Old -- Description and travel'
+- !lcsh 'Arkansas -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'F350.5'
+- !lcsh 'Hunting -- Mississippi River Valley'
+- GITenberg
+title: Wild Sports in the Far West
+url: http://www.gutenberg.org/ebooks/51800
